@@ -1,0 +1,4 @@
+print "Hello, world"
+for i in xrange(10):
+    print "Counting", i
+    
