@@ -1,0 +1,3 @@
+INFO:root:this is informational message
+ERROR:root:this is an error message
+WARNING:root:this is a warning message
